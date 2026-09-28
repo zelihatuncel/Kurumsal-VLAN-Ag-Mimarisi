@@ -31,4 +31,4 @@ Ağ altyapısı üç ana departman (VLAN) üzerine inşa edilmiş olup, IP blokl
 
 ## 📡 Haberleşme (Ping) Testi Sonuçları
 Aşağıdaki görselde, VLAN 10'da bulunan PC0'ın, VLAN 20'de bulunan PC3 ile başarılı bir şekilde haberleştiği (Inter-VLAN Routing) görülmektedir.
-![Ping Testi](Ping_Testi.png)
+![Ping Testi](ping.png)
